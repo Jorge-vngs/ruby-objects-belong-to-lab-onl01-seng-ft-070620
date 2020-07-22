@@ -7,4 +7,4 @@ class Artist
   
 end 
 
-potato = Artist.new 
+potato = Artist.new (potato)

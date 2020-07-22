@@ -5,4 +5,3 @@ class Artist
   end 
 end 
 
-potato = Artist.new (potato)
